@@ -1,0 +1,18 @@
+auteur : Darkangel
+blog : raspberry.etoilecraft.com
+mail : roch@blondiaux.com
+
+                                  Yuri installe Serveur
+
+Pré-requis :								  
+
+Site web / raspberry pi / wamp serveur / ou autre
+
+Instalation :
+
+deplacer yuri.php et yuri.html et index.php
+sur un serveur ou site (web ou local(localhost/wanp))
+
+Usage :
+executer micro.cmd/kinect.cmd 
+Parlez a yuri
